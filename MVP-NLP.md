@@ -5,3 +5,5 @@
 ### (-2 represent very offensive speech).
 
 ![](https://github.com/Rawan-qahtani/T5-NLP/blob/main/p33.png)
+
+## The goal of this project is to classify the Arabic Normal and Offensive words.
